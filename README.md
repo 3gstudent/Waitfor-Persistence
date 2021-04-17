@@ -11,4 +11,4 @@ POC:
 
 More details:
 
-https://3gstudent.github.io/3gstudent.github.io/Use-Waitfor.exe-to-maintain-persistence/
+https://3gstudent.github.io/Use-Waitfor.exe-to-maintain-persistence
